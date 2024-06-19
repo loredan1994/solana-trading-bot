@@ -4,7 +4,7 @@ The Solana Trading Bot is a software tool designed to automate the buying and se
 It is configured to execute trades based on predefined parameters and strategies set by the user.
 
 The bot can monitor market conditions in real-time, such as pool burn, mint renounced and other factors, and it will execute trades when these conditions are fulfilled.
-
+test
 ## Setup
 
 To run the script you need to:
